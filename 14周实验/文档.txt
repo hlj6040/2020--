@@ -1,0 +1,9 @@
+1.在Windows环境下使用c++的套接字编程进行TCP连接实现服务端与客户端的通信
+
+2.boat_path.txt存放无人艇的路径  gold存放围捕目标的路径
+
+3.draw_path.exe  调用boat_path和gold的数据画图
+
+
+	
+
